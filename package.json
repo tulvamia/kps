@@ -1,0 +1,9 @@
+{
+  "title": "KPS",
+  "description": "Tabris.js - KPS",
+  "category": "Small Apps",
+  "main": "src/kps.js",
+  "dependencies": {
+    "tabris": "^2.1.0"
+  }
+}
